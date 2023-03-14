@@ -1,2 +1,4 @@
 flask
 Jinja2
+numpy
+scikit-learn
